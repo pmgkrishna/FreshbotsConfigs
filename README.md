@@ -1,0 +1,2 @@
+# FreshbotsConfigs
+maven poc
