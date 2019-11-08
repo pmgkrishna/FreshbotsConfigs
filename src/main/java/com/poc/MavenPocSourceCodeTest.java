@@ -5,6 +5,6 @@ public class MavenPocSourceCodeTest {
   public static void main( String[] args )
   {
     System.out.println( "Nothing is configured" );
-    System.out.println(" Okies for nothing");
+    System.out.println(" Okies for nothing...");
   }
 }
